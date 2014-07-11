@@ -1,3 +1,20 @@
+HPS Mod
+========
+Make it accept non-maven artifacts from artifactory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Maven (Artifactory) Poller Plugin for Go
 ==================================
 
